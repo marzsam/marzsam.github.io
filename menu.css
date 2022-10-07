@@ -27,7 +27,7 @@ li.menu-link{
 
 .logo{
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     color: #F0EBD8;
     height: 100%;
     display: flex;
@@ -136,6 +136,7 @@ a.menu-link:hover{
 @media only screen and (max-width: 992px){
     .menu-container{
         height: auto;
+        padding: 10px 10px;
     }
     .menu{
         flex-direction: column;
